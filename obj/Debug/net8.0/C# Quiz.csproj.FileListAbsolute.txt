@@ -1,0 +1,33 @@
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\appsettings.json
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\C# Quiz.exe
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\C# Quiz.deps.json
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\C# Quiz.runtimeconfig.json
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\C# Quiz.dll
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\C# Quiz.pdb
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.csproj.AssemblyReference.cache
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.AssemblyInfoInputs.cache
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.AssemblyInfo.cs
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.csproj.CoreCompileInputs.cache
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.sourcelink.json
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\staticwebassets\msbuild.C# Quiz.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\staticwebassets\msbuild.build.C# Quiz.props
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.C# Quiz.props
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.C# Quiz.props
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\scopedcss\bundle\C# Quiz.styles.css
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.csproj.Up2Date
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.dll
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\refint\C# Quiz.dll
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.pdb
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\C# Quiz.genruntimeconfig.cache
+C:\Users\chott\OneDrive\Desktop\Level 2\Quiz\C# Quiz\obj\Debug\net8.0\ref\C# Quiz.dll
